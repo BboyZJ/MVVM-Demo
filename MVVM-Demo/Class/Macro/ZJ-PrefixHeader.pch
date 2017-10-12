@@ -1,0 +1,23 @@
+//
+//  ZJ-PrefixHeader.pch
+//  MVVM-Demo
+//
+//  Created by 张建 on 2017/1/23.
+//  Copyright © 2017年 张建. All rights reserved.
+//
+
+#ifndef ZJ_PrefixHeader_pch
+#define ZJ_PrefixHeader_pch
+
+//宏定义
+#import "ZJDefineMacro.h"
+
+//masory
+#import <Masonry/Masonry.h>
+
+//RAC
+#import <ReactiveCocoa/RACSignal.h>
+#import <ReactiveCocoa/ReactiveCocoa.h>
+#import <ReactiveCocoa/RACDelegateProxy.h>
+
+#endif
